@@ -1,0 +1,99 @@
+<html>
+	<head>
+	<meta http-equiv="content-type" content="txt/html; charset=utf-8" />
+	
+		<style>
+
+			html{
+				color: #fff; 
+				background: #000;
+				font-size: 20px;
+			}
+
+			.body{
+				max-width: 1000px; 
+				magin: 0 auto; 
+				text-align: left; 
+			}
+
+			.txtcss1{
+				text-align: left; 
+			}
+
+			.title {
+				font-weight:bold;
+				line-height:5em;
+				color:green;
+			}
+
+			.title2 {
+				font-weight:bold;
+				line-height:2em;
+				color:green;
+			}
+			
+			.mark {
+				color:red;
+			}
+
+			a {
+				target:_blank;
+				text-decoration:none;
+				color:green;
+			}
+
+
+		</style>
+	</head>
+
+<body class="body">
+
+<div>
+<center>
+<span class="title">-------------------------------------  
+<a target='_blank' href="/intro/introduce.html"> Welcome To Test Waf YunSuo -------------------------------------</span> <br>
+</a> 
+
+<span class="title2">-------------------------------------  SQL注入之root数据库权限 -------------------------------------</span> <br>
+<div class="txtcss1 title2">
+1.<a target='_blank' href="sql_introduce.html">  SQL Injection</a> <span class="mark"> <<-- 点我</span> <br>
+1.1 <a  target='_blank' href="/SQL01/sql_get_number.php">http://47.244.191.206/SQL01/sql_get_number.php</a> <br>
+1.2 <a  target='_blank' href="/SQL01/sql_get_string.php">http://47.244.191.206/SQL01/sql_get_string.php</a> <br>
+1.3 <a  target='_blank' href="/SQL01/sql_get_search.php">http://47.244.191.206/SQL01/sql_get_search.php</a> <br>
+1.4 <a  target='_blank' href="/SQL01/sql_post_number.php">http://47.244.191.206/SQL01/sql_post_number.php</a> <br>
+1.5 <a  target='_blank' href="/SQL01/sql_post_string.php">http://47.244.191.206/SQL01/sql_post_string.php</a> <br>
+1.6 <a  target='_blank' href="/SQL01/sql_post_search.php">http://47.244.191.206/SQL01/sql_post_search.php</a> <br>
+1.7 <a  target='_blank' href="/SQL01/sql_request_number.php">http://47.244.191.206/SQL01/sql_requset_number.php</a> <br>
+1.8 <a  target='_blank' href="/SQL01/sql_request_string.php">http://47.244.191.206/SQL01/sql_request_string.php</a> <br>
+1.9 <a  target='_blank' href="/SQL01/sql_request_search.php">http://47.244.191.206/SQL01/sql_request_search.php</a> <br>
+</div>
+
+<span class="title2">-------------------------------------  SQL注入之普通数据库权限 -------------------------------------</span> <br>
+<div class="txtcss1 title2">
+2.<a target='_blank' href="/intro/sql_introduce.html">  SQL Injection</a> <span class="mark"> <<-- 点我</span> <br>
+2.1 <a  target='_blank' href="/SQL02/sql_get_number.php">http://47.244.191.206/SQL02/sql_get_number.php</a> <br>
+2.2 <a  target='_blank' href="/SQL02/sql_get_string.php">http://47.244.191.206/SQL02/sql_get_string.php</a> <br>
+2.3 <a  target='_blank' href="/SQL02/sql_get_search.php">http://47.244.191.206/SQL02/sql_get_search.php</a> <br>
+2.4 <a  target='_blank' href="/SQL02/sql_post_number.php">http://47.244.191.206/SQL02/sql_post_number.php</a> <br>
+2.5 <a  target='_blank' href="/SQL02/sql_post_string.php">http://47.244.191.206/SQL02/sql_post_string.php</a> <br>
+2.6 <a  target='_blank' href="/SQL02/sql_post_search.php">http://47.244.191.206/SQL02/sql_post_search.php</a> <br>
+2.7 <a  target='_blank' href="/SQL02/sql_request_number.php">http://47.244.191.206/SQL02/sql_requset_number.php</a> <br>
+2.8 <a  target='_blank' href="/SQL02/sql_request_string.php">http://47.244.191.206/SQL02/sql_request_string.php</a> <br>
+2.9 <a  target='_blank' href="/SQL02/sql_request_search.php">http://47.244.191.206/SQL02/sql_request_search.php</a> <br>
+</div>
+
+<span class="title2">-------------------------------------  漏洞平台 -------------------------------------</span> <br>
+<div class="txtcss1 title2">
+3.<a target='_blank' href="intro/train_introduce.html">  靶场</a> <span class="mark"> <<-- 点我</span> <br>
+3.1 <a  target='_blank' href="/train/sqli-labs/">http://47.244.191.206/train/sqli-labs/</a> <br>
+3.2 <a  target='_blank' href="/train/pikachu/">http://47.244.191.206/train/pikachu/</a> <br>
+3.3 <a  target='_blank' href="/train/dvwa/">http://47.244.191.206/train/dvwa/</a> <br>
+</div>
+
+</center>
+
+
+</div>
+
+</body>
+</html>
